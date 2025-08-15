@@ -27,3 +27,7 @@ The model uses **Random Forest Classifier** and is implemented in both a Google 
   - `RiskLevel` (Low, Mid, High)
 
 ---
+
+📎 GitHub Repository Link
+
+https://github.com/AasmaGupta/Prenalyze
